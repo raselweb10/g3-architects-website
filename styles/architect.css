@@ -1,0 +1,13 @@
+/* work sans from google fonts */
+// <uniquifier>: Use a unique and descriptive class name
+
+.work-sans-<uniquifier> {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+*{
+    font-family: "Work Sans", sans-serif;
+ 
+}
